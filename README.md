@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi there, I'm Jennifer! 👋
 
-<!--
-**jennvargas29/jennvargas29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩🏻‍💻Currently working on Data projects and learning new skills <br/>
+- 👩🏻‍🎓 Studying for a Master's degree in Computer Science <br/>
+- 📊 I self-taught SQL and Tableau<br/>
+- 📉 I have experience in Data Cleaning, Data Visualization and Data Analysis <br/>
+- 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/jennvargas29/)<br/>
+  
+<br/>
+<br/>
+✨Skills✨<br/>
+
+- SQL <br/>
+- Tableau <br/>
+- Microsoft Excel <br/>
+- R <br/>
+- Python <br/>
+<br/>
+<br/>
+
+📚Courses and Certifications📚<br/>
+- Data Science and Analytics, University of California, Santa Cruz CA <br/>
+- Computer Programming, University of California, Santa Cruz CA<br/>
+
+
+<br/>
+<br/>
+<!-- Github stats from https://github.com/anuraghazra/git 
+
+[![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennvargas29&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
+(https://github.com/jennvargas29/github-readme-stats)
