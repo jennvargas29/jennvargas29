@@ -15,10 +15,10 @@
 ✨Skills✨<br/>
 
 - SQL <br/>
+- Pyhton <br/>
+- R <br/>
 - Tableau <br/>
 - Microsoft Excel <br/>
-- R <br/>
-- Python <br/>
 <br/>
 <br/>
 
